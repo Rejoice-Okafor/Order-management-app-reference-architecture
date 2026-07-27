@@ -16,7 +16,7 @@ The architecture follows a defense-in-depth approach and incorporates Zero Trust
 
 # Architecture Diagram
 
-![Azure Order Management Security Architecture](images/architecture.png)
+![Azure Order Management Security Architecture]Images/architecture.png)
 
 ---
 
@@ -75,7 +75,7 @@ This reference architecture is designed around the following principles:
 | DevSecOps | Azure DevOps, Git, SAST, DAST, Secret Scanning, Image Scanning |
 
 
-```
+
 
 ---
 
