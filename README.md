@@ -16,7 +16,7 @@ The architecture follows a defense-in-depth approach and incorporates Zero Trust
 
 # Architecture Diagram
 
-![Azure Order Management Security Architecture]images/architecture.png)
+![Azure Order Management Security Architecture](Images/architecture.png)
 
 ---
 
